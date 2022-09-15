@@ -10,7 +10,8 @@ This repository consists of all the building blocks required to record position 
 
 - Install unity magic leap template available on https://ml1-developer.magicleap.com/en-us/learn/guides/1-1-unity-setup-with-template
 - Install magic leap toolkit from https://github.com/magicleap/Magic-Leap-Toolkit-Unity
-- After installing the toolkit, Open handtracking scene in the magic leap(tools) folder.
+- After installing the toolkit, Open handtracking scene in the magic leap(tools) folder and add your desired objects.
+- Attach direct manipulation script from magic leap tools folder to the objects.
 - Replace the handtrackingexample script with the script of the same name from this repository. 
 - Once the script is replaced add the script to scene and assign a port
 - load the thesis.slx script in simulink and assign the same port to the UDP block in simulink.
@@ -27,3 +28,4 @@ This repository consists of all the building blocks required to record position 
 - After adding the script, assign the object and text to the script
 - Adjust position of the object within the scene to meet the camera
 - If the object still isnt visible try making it a prefab.
+
