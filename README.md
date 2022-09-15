@@ -18,7 +18,7 @@ This repository consists of all the building blocks required to record position 
 
 ### Position data
 
-- Add the position scripts to the objects. each axis requires a seperate script or the data can not be limited using substring.
+- Add the position scripts to the objects (px,py,pz). each axis requires a seperate script or the data can not be limited using substring.
 - repeat steps 5 and 6 from above
 
 ### Stimulation script
